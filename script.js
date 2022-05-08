@@ -46,5 +46,5 @@ if (pairSum == 0){
 if (numberOne == numberTwo){
     alert("Os dois números inseridos são iguais")
 } else {
-    alert("Os dois números inseridos são iguais diferentes")
+    alert("Os dois números inseridos são diferentes")
 }
